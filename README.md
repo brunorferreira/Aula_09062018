@@ -1,1 +1,1 @@
-# Aula_09062018
+# Esse projeto é um exemplo sendo criado junto aos alunos da Pós Faculdade Alfa.
